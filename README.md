@@ -26,8 +26,6 @@
 
 Claude Skills are folders with instructions, scripts, and resources that teach Claude specific tasks. Skills can include executable code and are loaded only when needed, allowing you to maintain hundreds without performance impact. Multiple skills can run together for complex tasks like document creation, code testing, and data analysis.
 
-
-
 ### What a Basic Skill Looks Like?
 
 ```YAML
@@ -121,7 +119,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 - **[ComposioHQ/meeting-insights-analyzer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/meeting-insights-analyzer)** - Analyze meeting communication patterns
 - **[ComposioHQ/competitive-ads-extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor)** - Analyze competitor advertising
 - **[ComposioHQ/image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer)** - Improve image quality
-- **[wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill)** - Manage Linear issues, projects, and teams with MCP tools, SDK scripts, and GraphQL fallbacks
+- **https://github.com/wrsmith108/linear-claude-skill** - Manage Linear issues, projects, and teams with MCP tools, SDK scripts, and GraphQL fallbacks
 
 ### Development and Testing
 
@@ -223,7 +221,8 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 - Submit new skills via PR
-- Improve existing definitions
-- Add new docs & videos & articles
 
+- Improve existing definitions
+
+- Add new docs & videos & articles
 * This is a curated list. We do not audit, endorse, or guarantee the security or correctness of listed projects.
